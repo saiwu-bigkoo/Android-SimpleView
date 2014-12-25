@@ -10,6 +10,11 @@ SimpleView
 ——不滚动的GridView   
 ——带删除按钮的EditText   
 
+## Demo 图片
+![](https://github.com/saiwu-bigkoo/SimpleView/blob/master/preview/gridviewdemo.gif)
+![](https://github.com/saiwu-bigkoo/SimpleView/blob/master/preview/listviewdemo.gif)
+![](https://github.com/saiwu-bigkoo/SimpleView/blob/master/preview/imagecircular.png)
+
 
 ## Thanks
 
